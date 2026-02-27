@@ -1,5 +1,4 @@
 # DRAGON QUEST VII Reimagined DataBase
-![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/DQ7R_DataBase/total.svg)
 
 <div align="center"><table>
 <tr><td colspan="3">
