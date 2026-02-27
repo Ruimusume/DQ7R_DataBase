@@ -1,7 +1,6 @@
 # DRAGON QUEST VII Reimagined DataBase
-
-<div align="center"><table>
-<tr><td colspan="3">
+<div align="center"><img height="256" alt="image" src="https://github.com/Ruimusume/DQ7R_DataBase/blob/main/img/logo.png?raw=true" />
+<table><tr><td colspan="3">
 
 [DQ7R-Win64-Shipping.exe](https://store.steampowered.com/app/2499860/)
 
