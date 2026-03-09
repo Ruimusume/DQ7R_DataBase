@@ -15,4 +15,4 @@
 <td>BID</td>
 <td>AB06020960EDD828</td></tr></table></div>
 
-[DRAGON QUEST VII Reimagined items ID](https://htmlpreview.github.io/?//github.com/Ruimusume/DQ7R_DataBase/blob/main/item_ID_list.html)
+[DRAGON QUEST VII Reimagined items ID](https://ruimusume.github.io/DQ7R_DataBase/item_ID_list.html)
